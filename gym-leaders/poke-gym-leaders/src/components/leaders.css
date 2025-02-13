@@ -1,0 +1,26 @@
+.card{
+    width: 350px;
+    background:linear-gradient(to bottom, #bdc3c7,  #8d9eae); 
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #161515;
+}
+
+.description > p{
+    margin: 10px 0;
+}
+.nome{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.title{
+    font-style: italic;
+}
+
+.tipo{
+    font-weight: 600;
+}
+
